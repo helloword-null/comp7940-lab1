@@ -1,0 +1,3 @@
+# comp7940-lab1
+## Introduction
+This repo is jsut for practicing....
